@@ -4,4 +4,4 @@ Project sequence :
 
 1)Two input calculation.
 2)N-input calculation.
-2)N-input calculation with desirable input.
+3)N-input calculation with desirable input.
